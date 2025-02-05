@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\project07\\project07\\intermediate\\build\\win64\\unrealeditor\\inc\\project07\\uht\\project07.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\project07\\project07\\intermediate\\build\\win64\\x64\\project07editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\github\\project07\\project07\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project07\\definitions.project07.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
