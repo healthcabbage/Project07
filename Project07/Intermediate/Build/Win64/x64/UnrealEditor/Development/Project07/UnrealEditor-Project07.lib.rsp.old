@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Project07.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\Project07\Project07\Intermediate\Build\Win64\x64\Project07Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\GitHub\Project07\Project07\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project07\Project07.cpp.obj"
+"D:\GitHub\Project07\Project07\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project07\PerModuleInline.gen.cpp.obj"
+"D:\GitHub\Project07\Project07\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project07\Default.rc2.res"
+/OUT:"D:\GitHub\Project07\Project07\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project07\UnrealEditor-Project07.lib"
