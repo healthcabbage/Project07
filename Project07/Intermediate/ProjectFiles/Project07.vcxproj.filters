@@ -45,5 +45,11 @@
     <ClCompile Include="..\..\Source\Project07\RabbitGameMode.h">
       <Filter>Source\Project07</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Project07\RabbitPawn.cpp">
+      <Filter>Source\Project07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project07\RabbitPawn.h">
+      <Filter>Source\Project07</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
